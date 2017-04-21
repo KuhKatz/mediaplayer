@@ -27,10 +27,6 @@ import javafx.scene.media.MediaPlayer;
 import javafx.scene.media.MediaView;
 import javafx.util.Duration;
 
-/**
- *
- * @author Neal
- */
 public class Main extends Application {
 
 //    MPStyle style = new MPStyle();
