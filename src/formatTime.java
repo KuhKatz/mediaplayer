@@ -2,9 +2,6 @@ package sample;
 
 import javafx.util.Duration;
 
-/**
- * Created by Neal on 07.04.2017.
- */
 public final class formatTime {
 
     static String formatTime(Duration elapsed, Duration duration) {
